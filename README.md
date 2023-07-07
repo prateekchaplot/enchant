@@ -1,0 +1,3 @@
+## Technologies Used
+- React
+- Firebase
