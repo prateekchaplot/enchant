@@ -1,3 +1,12 @@
-## Technologies Used
+## Technologies used
 - React
-- Firebase
+- Material UI
+
+## Getting started
+
+- Frontend
+
+```
+cd frontend
+npm start
+```
