@@ -1,5 +1,8 @@
 ## Technologies used
-- React
+- MongoDB
+- ExpressJS
+- ReactJS
+- NodeJS
 - Material UI
 
 ## Getting started
