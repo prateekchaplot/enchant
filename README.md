@@ -6,7 +6,7 @@
 - NodeJS
 
 ## Deployments
-- Database - MongoDb Atlast
+- Database - MongoDb Atlas
 - Frontend - Firebase
 - Backend - Vercel
 
