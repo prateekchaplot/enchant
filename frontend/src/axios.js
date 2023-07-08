@@ -1,2 +1,8 @@
 import axios from "axios";
-axios.defaults.baseURL = "http://localhost:8001";
+
+const baseURL =
+  process.env.NODE_ENV === "development"
+    ? "http://localhost:8001/"
+    : "https://enchant-drab.vercel.app/";
+
+axios.defaults.baseURL = baseURL;
