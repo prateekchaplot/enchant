@@ -5,6 +5,11 @@
 - ReactJS
 - NodeJS
 
+## Deployments
+- Database - MongoDb Atlast
+- Frontend - Firebase
+- Backend - Vercel
+
 ## Getting started
 
 - Frontend
